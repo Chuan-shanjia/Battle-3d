@@ -1,0 +1,2 @@
+python==3.9
+pip 安装gym,tqdm,Pillow,matplotlib,torch
